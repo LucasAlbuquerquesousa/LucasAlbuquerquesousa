@@ -1,23 +1,87 @@
-## Hi there 👋
+# 👩🏻‍💻 Lucas Albuquerque
 
-Bem-vindo ao meu perfil! Sou o Lucas, um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Atualmente, estou estudando programação no DevClub, com foco em aprender React.
-<br>
-### Minhas Habilidades
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt: html logo/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt: CSS logo/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt: JavaScript logo/>
+**`Desenvolvedor Front-end`**
 
-[![Lucas Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlbuquerquesousa)](https://github.com/anuraghazra/github-readme-stats)
+> Sou Lucas, desenvolvedor front-end desde maio de 2025. Apaixonado por criar interfaces envolventes, estou sempre explorando novas formas de transformar código em experiências impactantes. Atualmente, estudo **React**, **Vue.js** e **Tailwind CSS**, focando em construir projetos modernos e funcionais que unem estilo e eficiência.
 
-[![Lucas Stats](https://github-readme-stats.vercel.app/api?username=LucasAlbuquerquesousa&)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-### Contato
-<br>
-<a href="https://www.linkedin.com/in/lucas-albuquerque-sousa/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-</a>
+### 🤖 Linguagens e Tecnologias
 
-<a href="https://www.instagram.com/lucas.albuu">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-  <a/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=LucasAlbuquerquesousa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlbuquerquesousa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
