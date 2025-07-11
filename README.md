@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Lucas Albuquerque
+# 👨🏽‍💻 Lucas Albuquerque
 
 **`Desenvolvedor Front-end`**
 
